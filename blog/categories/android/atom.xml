@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jagmohan Singh]]></title>
-  <link href="http://jagmohansingh.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Android | Jagmohan Singh]]></title>
+  <link href="http://jagmohansingh.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://jagmohansingh.github.io/"/>
   <updated>2013-12-15T12:00:36+05:30</updated>
   <id>http://jagmohansingh.github.io/</id>
@@ -18,7 +18,7 @@
     <link href="http://jagmohansingh.github.io/blog/2013/12/14/paisaswipe-earn-money-while-unlocking-your-android-device/"/>
     <updated>2013-12-14T20:27:16+05:30</updated>
     <id>http://jagmohansingh.github.io/blog/2013/12/14/paisaswipe-earn-money-while-unlocking-your-android-device</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://jagmohansingh.github.io/images/app-home.png" width="240" height="320" title="PaisaSwipe" >
+    <content type="html"><![CDATA[<p><img class="right" src="/images/app-home.png" width="240" height="320" title="PaisaSwipe" >
 Have you ever looked at an advertisement that&rsquo;s trying to sell you something and thought, <strong>They should be paying me to look at this</strong>. Well, now all your sarcastic dreams can come true with a new Android app from India, <a href="http://paisaswipe.com/home/">PaisaSwipe</a>.</p>
 
 <p>It&rsquo;s pretty simple. Each time you swipe it away, an amount multiple 10paisa is deposited into your PaisaSwipe account. You can earn up to Rs. 300 per month, and possibly more if you get your friends to sign up. As the app description says, <strong>It is the easiest money you will ever make.</strong></p>
@@ -39,14 +39,9 @@ Have you ever looked at an advertisement that&rsquo;s trying to sell you somethi
 
 <p><i>Source: Google Play</i></p>
 
-<blockquote><p><i>There was a time when people used to get frustrated by seeing Ads on their mobile screen, and now my friends get frustrated if they don&#8217;t see Ads on their mobile screen&#8230;! Well done PaisaSwipe :)</i></p><footer><strong>Mridul Sen</strong></footer></blockquote>
-
-
+<p><blockquote><p><i>There was a time when people used to get frustrated by seeing Ads on their mobile screen, and now my friends get frustrated if they don&rsquo;t see Ads on their mobile screen&hellip;! Well done PaisaSwipe :)</i></p><footer><strong>Mridul Sen</strong></footer></blockquote>
 <blockquote><p><i>Amazing Ads, I love the Ads, they are truly useful. Not just am I being givem credits for viewing Ads but double credits for seeing them. Brilliant App!!!</i></p><footer><strong>Loy Veigas</strong></footer></blockquote>
-
-
-<blockquote><p><i>All promises fulfilled! The quick response and fulfillment of all the made promises makes this App a must download. Developers are doing a great job here :)</i></p><footer><strong>Viraj Khetle</strong></footer></blockquote>
-
+<blockquote><p><i>All promises fulfilled! The quick response and fulfillment of all the made promises makes this App a must download. Developers are doing a great job here :)</i></p><footer><strong>Viraj Khetle</strong></footer></blockquote></p>
 ]]></content>
   </entry>
   
